@@ -11,9 +11,10 @@ dependencies = [
     "fastapi[standard]>=0.136.3",
     "google-genai>=2.8.0",
     "pydantic>=2.13.4",
-    "python-dotenv>=1.2.2",
+"python-dotenv>=1.2.2",
     "requests>=2.34.2",
-    "streamlit>=1.58.0"
+    "streamlit>=1.58.0",
+    "pandas>=2.0.0"
 
 
 ]
