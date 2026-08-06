@@ -1,0 +1,12 @@
+reviews = [
+    ("The delivery was quick and the food arrived hot.", "positive", 5, "delivery speed"),
+    ("The app interface is confusing and hard to navigate.", "negative", 2, "usability"),
+    ("The customer support was polite but couldn’t solve my issue.", "neutral", 3, "customer service"),
+    ("The pizza tasted amazing with fresh ingredients.", "positive", 5, "food quality"),
+    ("The packaging was damaged when it arrived.", "negative", 1, "packaging"),
+    ("The portion size was decent for the price.", "neutral", 3, "value for money"),
+    ("The restaurant ambiance made the experience enjoyable.", "positive", 4, "ambiance"),
+    ("The order was delayed by more than an hour.", "negative", 1, "delivery delay"),
+    ("The website worked fine but lacked advanced features.", "neutral", 3, "website functionality"),
+    ("The staff went above and beyond to help me.", "positive", 5, "staff friendliness")
+]
