@@ -111,7 +111,8 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`).
 In a separate terminal:
 
 ```bash
-uv run uvicorn api:app --reload
+uv run uvicorn api:app --reload ##for fastapi
+.venv/Scripts/python.exe -m streamlit run app.py --server.headless true --server.port 8501     ### for a yourself dashboard
 ```
 
 The interactive API docs will be available at **http://localhost:8000/docs**.
