@@ -92,7 +92,8 @@ uv run streamlit run app.py
 Or without uv:
 
 ```bash
-streamlit run app.py
+streamlit run app.py  or 
+.venv/Scripts/python.exe -m streamlit run app.py --server.headless true --server.port 8501 
 ```
 
 Then open the URL shown in the terminal (usually `http://localhost:8501`).

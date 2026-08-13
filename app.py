@@ -94,7 +94,6 @@ def history_to_df() -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------------
-# Sidebar navigation
 # ---------------------------------------------------------------------------
 st.sidebar.title("📊 Feedback Analyzer")
 st.sidebar.caption("Gemini-powered customer feedback analysis")
