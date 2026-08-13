@@ -87,6 +87,7 @@ pip install -e .
 
 ```bash
 uv run streamlit run app.py
+https://habtamu-maru-project-feedback-analyzer-app-w3v4yk.streamlit.app/   # If you want to run on stream cloud publicaly using only brouser no need to start server
 ```
 
 Or without uv:
